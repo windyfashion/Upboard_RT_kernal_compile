@@ -13,7 +13,7 @@ upboard patch文件：git clone https://github.com/windyfashion/Upboard_RT_kerna
 注意：需保证patch补丁正确打成。  
   
 ## 三、编译内核  
-1、安装编译依赖
+1、安装编译依赖  
 `sudo apt-get install build-essential bc curl ca-certificates fakeroot gnupg2 libssl-dev lsb-release libelf-dev bison flex`  
 
 2、配置编译选项：  
