@@ -2,7 +2,7 @@
 ## 一、根据自己需求下载相应版本内核和相应的patch文件，本文以4.4.270-rt222为例  
 linux内核： https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.4.270.tar.xz  
 patch文件： https://mirrors.edge.kernel.org/pub/linux/kernel/projects/rt/4.4/older/patches-4.4.270-rt222.tar.xz  
-upboard patch文件：  
+upboard patch文件：git clone https://github.com/windyfashion/Upboard_RT_kernal_compile.git  
 
 ## 二、打patch文件  
 解压内核压缩包，将patch压缩包和upboard patch压缩包拷贝到内核文件夹中。  
